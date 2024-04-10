@@ -1,0 +1,8 @@
+﻿  Node.cpp
+  main.cpp
+C:\Users\karol\Desktop\PEA_BB\BB\BB\main.cpp(38,9): warning C4101: "endNode": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_BB\BB\BB\main.cpp(37,9): warning C4101: "startNode": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_BB\BB\BB\main.cpp(86,57): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+C:\Users\karol\Desktop\PEA_BB\BB\BB\Node.cpp(145): warning C4715: "Node::solve”: niewszystkie ścieżki kodu zwracają wartość
+  BB.vcxproj -> C:\Users\karol\Desktop\PEA_BB\BB\x64\Debug\BB.exe

@@ -1,0 +1,26 @@
+﻿  GA.cpp
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(53,9): warning C4101: "endNode": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(52,9): warning C4101: "startNode": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(128,21): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(129,62): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(131,21): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(132,63): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(136,27): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(154,34): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(155,34): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(156,21): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(157,21): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(164,25): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(92,9): warning C4101: "mode": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(216,57): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(225,57): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(233,57): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(242,57): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(250,57): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(258,57): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(266,57): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(475,30): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(495,35): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(592,32): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_GA\GA\GA\GA.cpp(470,9): warning C4102: "start": etykieta, do której nie istnieje odwołanie
+  GA.vcxproj -> C:\Users\karol\Desktop\PEA_GA\GA\x64\Debug\GA.exe

@@ -1,0 +1,14 @@
+﻿  TSP.cpp
+C:\Users\karol\Desktop\PEA_1\TSP\TSP\TSP.cpp(35,6): warning C4101: "endNode": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_1\TSP\TSP\TSP.cpp(34,6): warning C4101: "startNode": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_1\TSP\TSP\TSP.cpp(108,24): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_1\TSP\TSP\TSP.cpp(109,24): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_1\TSP\TSP\TSP.cpp(110,11): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_1\TSP\TSP\TSP.cpp(111,11): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\PEA_1\TSP\TSP\TSP.cpp(118,12): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  main.cpp
+C:\Users\karol\Desktop\PEA_1\TSP\TSP\main.cpp(45,13): warning C4101: "value": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\PEA_1\TSP\TSP\main.cpp(45,6): warning C4101: "index": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+C:\Users\karol\Desktop\PEA_1\TSP\TSP\TSP.cpp(52): warning C4715: "TSP::loadFromFile”: niewszystkie ścieżki kodu zwracają wartość
+  TSP.vcxproj -> C:\Users\karol\Desktop\PEA_1\TSP\x64\Debug\TSP.exe
